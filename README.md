@@ -1,4 +1,4 @@
-Nombre de la estudiante: Astrid Berenice Murgas Herrera
-Carnet: 20240235
-Enlace del video demostrativo: 
-Enlace del APK:
+- **Nombre de la estudiante:** Astrid Berenice Murgas Herrera
+- **Carnet:** 20240235
+- **Enlace del video demostrativo:** https://drive.google.com/file/d/1B-2l6M6iFOmk_otC_zkl_B5aUScV-TKN/view?usp=drivesdk
+- **Enlace del APK:** https://expo.dev/accounts/amurgas/projects/perfil-3/builds/e18d9383-7154-4d3a-9ec0-852c97685ce2
